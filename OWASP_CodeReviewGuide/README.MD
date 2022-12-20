@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-#### 6.7 Code Review Discovery and Gathering Information
+### 6.7 Code Review Discovery and Gathering Information
 
-## Understanding The Design
+##### Understanding The Design
 
 - Security code review is not simply about the code structure. 
 
@@ -18,7 +18,7 @@ information will surely aid the review process, mainly in capturing the data flo
 the architecture of the application goes a long way in understanding the security threats that can be applicable to
 the application.
 
-### Design Reviews
+###### Design Reviews
 - A design is a blueprint of an application; it lays a foundation for its development. It illustrates the layout of the application
 and identifies different application components needed for it. It is a structure that determines execution flow
 of the application. Most of the application designs are based on a concept of MVC. 
@@ -38,4 +38,4 @@ breaches in the application.
 After understanding the design, the next phase is to analyze the threats to the design. This involves observing the
 design from an attacker’s perspective and uncovering the backdoors and insecure areas present in it.
 
-#### 6.8 Static Code Analysis
+### 6.8 Static Code Analysis
