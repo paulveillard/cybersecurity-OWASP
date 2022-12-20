@@ -16,7 +16,7 @@ The Open Web Application Security Project is an online community that produces f
 ## `OWASP`
 ![owasp-guides](https://github.com/paulveillard/cybersecurity-architecture/blob/main/img/OWASP-Guides.png)
 
- ### OWASP Top Ten:
+ ### `OWASP Top Ten:`
  The "Top Ten", first published in 2003, is regularly updated.[10] It aims to raise awareness about application security by identifying some of the most critical risks facing organizations.[11][12][13] Many standards, books, tools, and many organizations reference the Top 10 project, including MITRE, PCI DSS,[14] the Defense Information Systems Agency (DISA-STIG), and the United States Federal Trade Commission (FTC),[15]
  
  
@@ -31,7 +31,7 @@ The Open Web Application Security Project is an online community that produces f
  The OWASP Testing Guide includes a "best practice" penetration testing framework that users can implement in their own organizations and a "low level" penetration testing guide that describes techniques for testing most common web application and web service security issues. Version 4 was published in September 2014, with input from 60 individuals.[17]
  
  
- ### [OWASP Code Review Guide:](https://github.com/paulveillard/cybersecurity-architecture/blob/main/src/OWASP_Code_Review_Guide_v2.pdf]
+ ### `OWASP Code Review Guide`
  The code review guide is currently at release version 2.0, released in July 2017.
  
  
