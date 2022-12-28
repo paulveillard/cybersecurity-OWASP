@@ -77,11 +77,11 @@ The Open Web Application Security Project is an online community that produces f
 
 ### OWASP Mobile Application Security
 
-### OWASP ModSecurity Core Rule Set
+### `OWASP ModSecurity Core Rule Set`
 
-### OWASP OWTF
+### `OWASP OWTF`
 
-### OWASP SAMM
+### `OWASP SAMM`
 
 ### `OWASP Security Knowledge Framework`
 
