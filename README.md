@@ -65,17 +65,17 @@ The Open Web Application Security Project is an online community that produces f
 
 ### OWASP CSRFGuard
 
-### OWASP CycloneDX
+### `OWASP CycloneDX
 
-### OWASP Defectdojo
+### `OWASP Defectdojo`
 
-### OWASP Dependency-Check
+### `OWASP Dependency-Check`
 
-### OWASP Dependency-Track
+### `OWASP Dependency-Track`
 
-### OWASP Juice Shop
+### `OWASP Juice Shop`
 
-### OWASP Mobile Application Security
+### `OWASP Mobile Application Security`
 
 ### `OWASP ModSecurity Core Rule Set`
 
