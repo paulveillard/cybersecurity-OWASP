@@ -83,9 +83,9 @@ The Open Web Application Security Project is an online community that produces f
 
 ### OWASP SAMM
 
-### OWASP Security Knowledge Framework
+### `OWASP Security Knowledge Framework`
 
-### OWASP Security Shepherd
+### `OWASP Security Shepherd`
 
 ###`OWASP Web Security Testing Guide`
 
