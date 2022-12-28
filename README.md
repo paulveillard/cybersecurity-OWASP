@@ -35,10 +35,12 @@ The Open Web Application Security Project is an online community that produces f
  The code review guide is currently at release version 2.0, released in July 2017.
  
  
- ### OWASP Application Security Verification Standard (ASVS): 
+ ### `OWASP Application Security Verification Standard (ASVS):` 
  A standard for performing application-level security verifications.[18]
  - OWASP XML Security Gateway (XSG) Evaluation Criteria Project.[19]
-### OWASP Top 10 Incident Response Guidance. 
+
+
+### `OWASP Top 10 Incident Response Guidance.` 
  This project provides a proactive approach to Incident Response planning. The intended audience of this document includes business owners to security engineers, developers, audit, program managers, law enforcement & legal council.[20]
  
  ### `OWASP ZAP Project:`
