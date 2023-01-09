@@ -84,6 +84,9 @@ The Open Web Application Security Project is an online community that produces f
 ### `OWASP OWTF`
 
 ### `OWASP SAMM`
+Software Assurance Maturity Model
+
+Our mission is to provide an effective and measurable way for you to analyze and improve your secure development lifecycle. SAMM supports the complete software lifecycle and is technology and process agnostic. We built SAMM to be evolutive and risk-driven in nature, as there is no single recipe that works for all organizations.
 
 ### `OWASP Security Knowledge Framework`
 
